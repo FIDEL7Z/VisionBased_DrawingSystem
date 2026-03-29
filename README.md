@@ -2,9 +2,16 @@
 
 Sistema de desenho em tempo real baseado em Visão Computacional, utilizando rastreamento de mãos para interação gestual sem contato físico.
 
-![Gravando 2026-02-22 004406](https://github.com/user-attachments/assets/c2f622bb-071e-405b-bff5-d6bea0953d7f)
 
-## 🚀 Funcionalidades
+
+## 🚀 Funcionalidad
+
+
+
+
+
+
+
 
 - Detecção e rastreamento de mãos com MediaPipe
 - Desenho em tempo real utilizando o dedo indicador
