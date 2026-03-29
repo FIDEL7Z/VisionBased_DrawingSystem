@@ -4,7 +4,11 @@ Sistema de desenho em tempo real baseado em Visão Computacional, utilizando ras
 
 
 
-## 🚀 Funcionalidad
+## 🚀 Funci
+
+https://github.com/user-attachments/assets/882a3883-bfdf-4628-a9b7-e20bb3ab75a5
+
+onalidad
 
 
 
